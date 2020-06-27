@@ -1,6 +1,6 @@
 # Projeto de “Cadastro de usuário e envio de e-mail de confirmação de cadastro como tarefa em background utilizando Node.js
 
-![](https://img.shields.io/github/stars/4lexRossi/node-back.svg) ![](https://img.shields.io/github/forks/4lexRossi/node-back.svg) ![](https://img.shields.io/github/issues/4lexRossi/node-back.svg)
+![](https://img.shields.io/github/stars/4lexRossi/node-backend.svg) ![](https://img.shields.io/github/forks/4lexRossi/node-backend.svg) ![](https://img.shields.io/github/issues/4lexRossi/node-backend.svg)
 
 
 ## Stacks
@@ -19,18 +19,18 @@
 ## Para instalar em LocalHost
 ### Clone o Repositório ou faça um fork
 
-`git clone https://github.com/4lexRossi/node-back.git`
+`git clone https://github.com/4lexRossi/node-backend.git`
 
 ### Teste os Métodos pelo Postman, Insomnia ...
 
 [Postman](https://www.postman.com/)
 
-[local host](http://localhost:8080/admin)
+[localhost/users](http://localhost:8080/users)
 
 ### DashBoard através do BullBoard
 * [BullBoard](https://github.com/vcapretz/bull-board#readme)
 
-[local host](http://localhost:8080/admin/queues)
+[localhost:8080/admin/queues](http://localhost:8080/admin/queues)
 
 
 <h1 align="center">Oi quer ser meu Amigo, clica ai e conecta
